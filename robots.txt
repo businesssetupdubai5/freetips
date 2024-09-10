@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://freetips-53lw.vercel.app/sitemap.xml
